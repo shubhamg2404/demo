@@ -1,5 +1,5 @@
 {
-  "patients": [
+    "patients": [
         {
             "id": 1,
             "username":"test",
@@ -8,7 +8,20 @@
             "email":"test@a.com",
             "mobile":"8989876765"
         }
-    ]
+    ],
+    "doctors": [
+        {
+            "id": 2,
+            "username":"tdoctor",
+            "first_name":"tdoctor",
+            "last_name":"tdoctor",
+            "email":"tdoc@a.com",
+            "mobile":"8989876762",
+            "address":"test at test indore",
+            "speciality":"Dermatologist",
+            "experience":10,
+            "availability":true,
+            "verified":true
+        }
+    ],
 }
-
-
