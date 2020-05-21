@@ -10,5 +10,17 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "patients": [
+        {
+            "id": 1,
+            "username":"test",
+            "first_name":"test",
+            "last_name":"test",
+            "email":"test@a.com",
+            "mobile":"8989876765"
+        }
+    ]
 }
+
+
