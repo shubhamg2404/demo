@@ -1,5 +1,5 @@
 {
-    "patients": [
+    "patient": [
         {
             "id": 1,
             "username":"test",
@@ -9,7 +9,7 @@
             "mobile":"8989876765"
         }
     ],
-    "doctors": [
+    "doctor": [
         {
             "id": 2,
             "username":"tdoctor",
