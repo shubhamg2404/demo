@@ -1,23 +1,33 @@
 {
-	"patient": [{
-		"id": 1,
-		"username": "test",
-		"first_name": "test",
-		"last_name": "test",
-		"email": "test@a.com",
-		"mobile": "8989876765"
-	}],
-	"doctor": [{
-		"id": 2,
-		"username": "tdoctor",
-		"first_name": "tdoctor",
-		"last_name": "tdoctor",
-		"email": "tdoc@a.com",
-		"mobile": "8989876762",
-		"address": "test at test indore",
-		"speciality": "Dermatologist",
-		"experience": 10,
-		"availability": true,
-		"verified": true
-	}]
+   "patient":[
+      {
+         "id":1,
+         "username":"test",
+         "first_name":"test",
+         "last_name":"test",
+         "email":"test@a.com",
+         "mobile":"8989876765"
+      }
+   ],
+   "doctor":[
+      {
+         "address":"560 khatiwala tank, indore, mp",
+         "availability":true,
+         "clinic_name":"Shubham Health Care",
+         "email":"shubham.h.gupta@impetus.co.in",
+         "experience":19,
+         "fees":"₹100",
+         "first_name":"shubham",
+         "id":"\"fdf70b3b65714cffb8715a75c9dea785\"",
+         "last_name":"gupta",
+         "mobile":"+918989626549",
+         "profile_image_url":"https://oursalamat.com/uploads/alodoc4.jpg",
+         "speciality":"Dermatologist",
+         "speciality_id":"709285ca-acab-45d0-9729-2397ffa55cab",
+         "username":"shubham.h.gupta",
+         "verified":true,
+         "formated_experience":"1 year 7 months overall experience",
+         "formated_name":"Dr. Shubham Gupta"
+      }
+   ]
 }
