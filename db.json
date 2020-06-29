@@ -11,23 +11,23 @@
    ],
    "doctor":[
       {
-         "address":"560 khatiwala tank, indore, mp",
-         "availability":true,
-         "clinic_name":"Shubham Health Care",
-         "email":"shubham.h.gupta@impetus.co.in",
-         "experience":19,
-         "fees":"₹100",
-         "first_name":"shubham",
-         "id":"\"fdf70b3b65714cffb8715a75c9dea785\"",
-         "last_name":"gupta",
-         "mobile":"+918989626549",
-         "profile_image_url":"https://oursalamat.com/uploads/alodoc4.jpg",
-         "speciality":"Dermatologist",
-         "speciality_id":"709285ca-acab-45d0-9729-2397ffa55cab",
-         "username":"shubham.h.gupta",
-         "verified":true,
-         "formated_experience":"1 year 7 months overall experience",
-         "formated_name":"Dr. Shubham Gupta"
-      }
+            "address": "560 khatiwala tank, indore, mp",
+            "availability": true,
+            "clinic_name": "Shubham Health Care",
+            "email": "shubham.h.gupta@impetus.co.in",
+            "experience": 19,
+            "fees": "₹100",
+            "first_name": "shubham",
+            "id": "fdf70b3b-6571-4cff-b871-5a75c9dea785",
+            "last_name": "gupta",
+            "mobile": "+918989626549",
+            "profile_image_url": "https://oursalamat.com/uploads/alodoc4.jpg",
+            "speciality": "Dermatologist",
+            "speciality_id": "709285ca-acab-45d0-9729-2397ffa55cab",
+            "username": "shubham.h.gupta",
+            "verified": true,
+            "formated_experience": "1 year 7 months overall experience",
+            "formated_name": "Dr. Shubham Gupta"
+        }
    ]
 }
